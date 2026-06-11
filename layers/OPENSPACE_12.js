@@ -1,0 +1,1 @@
+var json_OPENSPACE_12 = {"type":"FeatureCollection","name":"OPENSPACE_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"ID_1":"BW28"},"geometry":{"type":"Point","coordinates":[30.186537983119067,-17.383679968456683]}}]}

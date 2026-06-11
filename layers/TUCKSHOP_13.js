@@ -1,0 +1,1 @@
+var json_TUCKSHOP_13 = {"type":"FeatureCollection","name":"TUCKSHOP_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","ID_1":"BW152"},"geometry":{"type":"Point","coordinates":[30.200444616525537,-17.382082424249628]}}]}
